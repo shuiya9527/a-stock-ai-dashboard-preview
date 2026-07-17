@@ -1,6 +1,4 @@
 {
-  "primary_api_base_urls": [
-    "https://muscles-colour-beats-fun.trycloudflare.com"
-  ],
+  "primary_api_base_urls": [],
   "snapshot_base_url": "./snapshots"
 }
