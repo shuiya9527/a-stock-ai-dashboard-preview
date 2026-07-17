@@ -1,0 +1,1 @@
+{"success":true,"data":{"phase":"第六阶段：Dashboard 与证据驱动选股","data_mode":"live_http","database_engine":"github-json-snapshot","modules":["market","themes","scoring","stock_trend","news"]},"message":"cloud system status loaded"}
